@@ -17,9 +17,9 @@
 
 [![npm version](https://badge.fury.io/js/devsuite-cli.svg)](https://www.npmjs.com/package/devsuite-cli)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/yourusername/devsuite/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ashish7802/devsuite/pulls)
 [![Made with Node.js](https://img.shields.io/badge/Made%20with-Node.js-green)](https://nodejs.org)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/devsuite?style=social)](https://github.com/yourusername/devsuite)
+[![GitHub stars](https://img.shields.io/github/stars/ashish7802/devsuite?style=social)](https://github.com/ashish7802/devsuite)
 
 [Features](#features) • [Installation](#installation) • [Usage](#usage) • [Contributing](#contributing) • [License](#license)
 
@@ -109,7 +109,7 @@ devsuite/
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/devsuite.git
+git clone https://github.com/ashish7802/devsuite.git
 cd devsuite
 
 # Install all dependencies
@@ -328,7 +328,7 @@ We welcome contributions from the community! Please see our [Contributing Guide]
 
 ```bash
 # Fork and clone
-git clone https://github.com/yourusername/devsuite.git
+git clone https://github.com/ashish7802/devsuite.git
 cd devsuite
 
 # Create a branch
@@ -375,7 +375,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ by the Ashish Yadav**
 
-[⭐ Star us on GitHub](https://github.com/yourusername/devsuite) • [🐛 Report Bug](https://github.com/yourusername/devsuite/issues) • [💡 Request Feature](https://github.com/yourusername/devsuite/issues)
+[⭐ Star us on GitHub](https://github.com/ashish7802/devsuite) • [🐛 Report Bug](https://github.com/ashish7802/devsuite/issues) • [💡 Request Feature](https://github.com/ashish7802/devsuite/issues)
 
 </div>
 '''
