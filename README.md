@@ -375,12 +375,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ by the Ashish Yadav**
 
-[⭐ Star us on GitHub](https://github.com/ashish7802/devsuite) • [🐛 Report Bug](https://github.com/ashish7802/devsuite/issues) • [💡 Request Feature](https://github.com/ashish7802/devsuite/issues)
-
-</div>
-'''
-
-with open(f"{base_path}/README.md", "w") as f:
-    f.write(readme_content)
-
 print("✅ Massive README.md created")
